@@ -15,4 +15,5 @@ printf("请输入第5个学生的成绩:");
 scanf("%d",&e);
 printf("五个学生平均数是:%d\n",(a+b+c+d+e)/5);
  return 0;
+ 
 }
